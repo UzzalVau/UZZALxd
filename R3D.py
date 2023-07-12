@@ -148,8 +148,8 @@ def banner():
  | | | |__________ _| |
  | | | |_  /_  / _` | |
  | |_| |/ / / / (_| | |
-  \___//___/___\__,_|_| VERSION 4.0.4  •
-                      
+  \___//___/___\__,_|_| 
+VERSION 4.0.4  •                
 •                                               •
 •   GITHUB : https://github.com/UzzalVau   •'''
 	oi = nel(tekz(ban,justify='center',style='bold'), style='cyan')
