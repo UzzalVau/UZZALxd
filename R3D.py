@@ -144,12 +144,12 @@ def banner():
 	ban='''
 •   AUTHOR  : AOREC-XD WHATSAPP : 01843438888  •
 •   
-           _   _              _ 
- | | | |__________ _| |
- | | | |_  /_  / _` | |
- | |_| |/ / / / (_| | |
-  \___//___/___\__,_|_| 
-VERSION 4.0.4  •                
+•           _   _              _ 
+•    | | | |__________ _| |
+•    | | | |_  /_  / _` | |
+•    | |_| |/ / / / (_| | |
+•    \___//___/___\__,_|_| 
+•            VERSION 4.0.4  •                
 •                                               •
 •   GITHUB : https://github.com/UzzalVau   •'''
 	oi = nel(tekz(ban,justify='center',style='bold'), style='cyan')
