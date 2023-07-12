@@ -143,12 +143,10 @@ def banner():
 	sol().print(cik2)
 	ban='''
 •   AUTHOR  : AOREC-XD WHATSAPP : 01843438888  •
-•   _____ _______  ____________________         •
-•   |  |  |  | |       /  |       /     /   \     |  |     
-    |  |  |  | `---/  /   `---/  /     /  ^  \    |  |     
-    |  |  |  |    /  /       /  /     /  /_\  \   |  |     
-    |  `--'  |   /  /----.  /  /----./  _____  \  |  `----.
-     \______/   /________| /________/__/     \__\ |_______|VERSION 4.0.4  •
+•        __ __           
+|  |  /  /  /\  |    
+\__/ /_ /_ /~~\ |___ 
+                     VERSION 4.0.4  •
 •                                               •
 •   GITHUB : https://github.com/UzzalVau   •'''
 	oi = nel(tekz(ban,justify='center',style='bold'), style='cyan')
