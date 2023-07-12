@@ -144,9 +144,11 @@ def banner():
 	ban='''
 •   AUTHOR  : AOREC-XD WHATSAPP : 01843438888  •
 •   
-         __ __
-  |  |  /  /  /\  |
-  \__/ /_ /_ /~~\ |___VERSION 4.0.4  •
+           _   _              _ 
+ | | | |__________ _| |
+ | | | |_  /_  / _` | |
+ | |_| |/ / / / (_| | |
+  \___//___/___\__,_|_| VERSION 4.0.4  •
                       
 •                                               •
 •   GITHUB : https://github.com/UzzalVau   •'''
